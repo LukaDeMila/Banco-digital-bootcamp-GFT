@@ -5,4 +5,4 @@ Pilares da orientação a objetos:
 Abstração;
 Encapsulamento;
 Herança;
-Polimorfismo;
+Polimorfismo.
